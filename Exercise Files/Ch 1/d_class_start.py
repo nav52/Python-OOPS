@@ -1,4 +1,3 @@
-# Python Object Oriented Programming by Joe Marini course example
 # Using class-level and static methods
 
 
